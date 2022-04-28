@@ -6,3 +6,9 @@ Este ejercicio es libre. Puedes tanto utilizar Dockerfile como docker-compose o 
   Crear un servidor nginx (proxy) corriendo por el puerto 80:80 de forma que vamos a enrutar el trafico entre el proxy y el servidor web.
   Configurar el fichero de nginx que haga de reverse proxy.
   Cuando se acceda a dicho servicio via navegador web tanto por dominio como direccion IP por el puerto 80 mostrara el contenido del servidor web.
+
+
+
+#Info
+
+Los ejercicios se deben de entregar en caso de ser codigo subiendolo al repositorio en caso de imagenes, subir dichas imagenes al repositorio.
